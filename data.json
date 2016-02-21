@@ -1,0 +1,19 @@
+{
+	"employeeList":[
+					{
+					"name": "Purva",
+					"age": 23,
+					"status": "single"
+					},
+					{
+					"name": "Tushar",
+					"age": 25,
+					"status": "single"
+					},
+					{
+					"name": "unix",
+					"age": 24,
+					"status": "married"
+					}
+	]
+}
