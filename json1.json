@@ -1,0 +1,29 @@
+{
+	"mobile":[
+	{
+		"img": "http://n2.sdlcdn.com/imgs/b/v/v/j3blacknew-5a685.jpg",
+		"name":"Samsung Galaxy J3 (8GB) with S Bike mode NFC Sticker",
+		"price":"Rs. 8,990",
+		"emi": "Rs. 580"
+	},
+	{
+		"img": "http://n2.sdlcdn.com/imgs/b/t/h/198x232/InFocus-Bingo-50-16GB-4G-SDL248082996-1-31b76.webp",
+		"name":"InFocus Bingo 50 (16GB)",
+		"price":"Rs. 7,499",
+		"emi": "Rs. 457"
+	},
+	{
+		"img": "http://n2.sdlcdn.com/imgs/a/4/g/198x232/Redmi-2-Prime-16-GB-SDL187739876-1-6fb89.webp",
+		"name":"Redmi 2 Prime (16GB)",
+		"price":"Rs. 6,999",
+		"emi": "Rs. 427"
+	},
+	{
+		"img": "http://n1.sdlcdn.com/imgs/b/d/t/198x232/Micromax-Canvas-5-E481-16GB-SDL498167995-1-ef8a9.webp",
+		"name":"Micromax Canvas 5 E481 (16GB)",
+		"price":"Rs. 10,360",
+		"emi": "Rs. 632"
+	}
+
+	]
+}
